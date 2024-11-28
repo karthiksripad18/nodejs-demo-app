@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "dist",
+    "lib": ["esnext"],
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "rootDir": "src"
+    // "strict": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
